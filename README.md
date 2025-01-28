@@ -1,7 +1,4 @@
-# monte-carlo-statistical-power
-Estimating statistical power of an A/B test for a new recommendation algorithm using Monte Carlo simulations. The simulation aims to determine the probability of detecting statistically significant differences in average user likes between control and experimental groups.
-
-## Симуляция для оценки мощности A/B-теста нового алгоритма рекомендаций
+## Монте-Карло для оценки статистической мощности A/B-теста нового алгоритма рекомендаций
 
 ### Задачи:
 *   Оценить вероятность обнаружения статистически значимых различий в среднем количестве лайков на пользователя между контрольной (A) и экспериментальной (B) группами.
